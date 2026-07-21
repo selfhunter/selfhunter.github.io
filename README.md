@@ -1,1 +1,8 @@
-# selfhunter.github.io
+# 姓名：边天贻
+
+## 个人简介
+研究方向：计算机图形学，大模型
+
+## 联系方式
+- Email: biantianyi@hnu.edu.cn
+- 单位/院校：湖南大学计算机学院
